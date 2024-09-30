@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, don't. But if you do, please don't cite it. But if you *have* to cite it, cite it as below."
+authors:
+  - name: "Sqrt-1"
+    alias: "SqrtNegativOne"
+    affiliation: "Pro-fascist Anarcho-communist Anti-social Democrat"
+title: "StopWatch v2"
+version: 1 # Version 1 of StopWatch v2. Not confusing I know
+date-released: 2024-09-22
